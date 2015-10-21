@@ -11,7 +11,7 @@ import csv
 import datetime
 
 FILENAME = 'BASLUS-20140NHLHitz'
-PATH = '/media/pool/games/PlayStation 2/saves/NHL Hitz 20-02/'
+PATH = '/media/pool/games/PlayStation 2/Saves/NHL Hitz 20-02/'
 
 #if you have a save file directly, the offset is 8. if you have a OPL memory card image, the offset is 46080 + the 8 of the file
 OFFSET = 8
